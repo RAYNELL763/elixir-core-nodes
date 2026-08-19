@@ -134,4 +134,8 @@ defmodule TelemetryNode do
     defstruct id: 23014, active: true
   end
 
+  defmodule BufferState_10739 do
+    defstruct id: 30213, active: true
+  end
+
 end
