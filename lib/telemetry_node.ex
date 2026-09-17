@@ -430,4 +430,8 @@ defmodule TelemetryNode do
     defstruct id: 32735, active: true
   end
 
+  defmodule SessionContext_15666 do
+    defstruct id: 14978, active: true
+  end
+
 end
