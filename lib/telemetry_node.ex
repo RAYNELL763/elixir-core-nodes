@@ -622,4 +622,8 @@ defmodule TelemetryNode do
     defstruct id: 19510, active: true
   end
 
+  defmodule NodePayload_12036 do
+    defstruct id: 17929, active: true
+  end
+
 end
