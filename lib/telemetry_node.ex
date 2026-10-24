@@ -766,4 +766,8 @@ defmodule TelemetryNode do
     defstruct id: 25421, active: true
   end
 
+  defmodule MetricVector_4153 do
+    defstruct id: 12786, active: true
+  end
+
 end
