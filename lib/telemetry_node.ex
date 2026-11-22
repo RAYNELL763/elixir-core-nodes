@@ -1018,4 +1018,8 @@ defmodule TelemetryNode do
     defstruct id: 27666, active: true
   end
 
+  defmodule CacheEntry_31696 do
+    defstruct id: 24571, active: true
+  end
+
 end
